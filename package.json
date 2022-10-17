@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "typecheck": "tsc --project tsconfig.json",
     "lint": "next lint --dir src",
     "format": "next lint --fix --dir src",
     "storybook": "start-storybook -p 6006",
