@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
-import Box, { BoxProps } from "components/layout/Box";
 import styled from "styled-components";
+import Box, { BoxProps } from "components/layout/Box";
 import type {
   CSSPropertyGridArea,
   CSSPropertyGridAutoFlow,
